@@ -1,5 +1,4 @@
 # THE-LAST-ECHO
-# The Last Echo
 
 ### A Story-Driven Supernatural Horror Game
 
